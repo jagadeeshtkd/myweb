@@ -7,10 +7,7 @@
 	<version>8.2.0</version>
 	<name>Java Home myweb</name>
 	<url>http://maven.apache.org</url>
-	<configuration>
-         <source>7</source>
-         <target>7</target>
-        </configuration>
+	
 	
 	<properties>
 		<docker.image.prefix>kammana</docker.image.prefix>
